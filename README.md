@@ -38,7 +38,7 @@
 
 ### *I don't have anything to hide, but I don't have anything to show you either.*
 
-![Updated](https://img.shields.io/static/v1?label=updated&message=October%2020,%202023&color=388E3C&style=flat-square)
+![Updated](https://img.shields.io/static/v1?label=updated&message=November%2022,%202023&color=388E3C&style=flat-square)
 ![License](https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg?style=flat-square)
 
 ![GitHub stars](https://img.shields.io/github/stars/tycrek/degoogle?style=flat-square)
@@ -97,6 +97,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html) ![Mozilla Add-on](https://img.shields.io/amo/users/amp2html?style=flat-square) | This web extension enables users to choose to opt-out of using Accelerated Mobile Pages (AMP) and choose to use the standard web instead. |
 | [Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority) ![Mozilla Add-on](https://img.shields.io/amo/users/port-authority?style=flat-square) | Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts. [Website](https://www.g666gle.me/Port-Authority/), [Source Code](https://github.com/ACK-J/Port_Authority) |
 | [I Still Don't Care About Cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies) ![Mozilla Add-on](https://img.shields.io/amo/users/istilldontcareaboutcookies?style=flat-square) | A fork of "I Don't Care About Cookies" created after the original was [acquired by Avast](https://www.androidpolice.com/i-dont-care-about-cookies-acquired-by-avast/). [Source code](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/) |
+| [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker) ![Mozilla Add-on](https://img.shields.io/amo/users/canvasblocker?style=flat-square) | Removes fingerprint tracking from JavaScript APIs and WebGL. It is [open-source](https://github.com/kkapsner/CanvasBlocker). |
 | [user.js](https://github.com/arkenfox/user.js)  | This is not an extension, instead it is a Firefox `user.js` config file. This file is a template which aims to provide as much privacy and enhanced security as possible, and to reduce tracking and fingerprinting as much as possible - while minimizing any loss of functionality and breakage (but it will happen). |
 
 
@@ -215,6 +216,14 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 
 
 
+#### Google Workflow
+
+| Name | Eyes | Description |
+| ---- | ---- | ----------- |
+| [Activepieces](https://www.activepieces.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/activepieces/activepieces)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/activepieces/activepieces?logo=github&style=flat-square) |  | Open source no-code business and process automation tool. For example, you can set up a flow to receive Slack messages whenever a new Trello card is added. |
+
+
+
 #### Blogger/Sites
 
 | Name | Eyes | Description |
@@ -242,15 +251,16 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Simple Analytics](https://simpleanalytics.com/) | **9-eyes** | Great analytics with privacy and simplicity in mind. Paid plans only (with free trials). |
 | [Alpina Web Analytics](https://alpina.io) | **5-eyes** | Simple, privacy-focused analytics with event tracking, real-time dashboard and filters. No cookie or localstorage usage. Servers in EU. Free and paid plans available. |
 | [Shynet](https://github.com/milesmcc/shynet)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/milesmcc/shynet)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/milesmcc/shynet?logo=github&style=flat-square) |  | Shynet is a self-hosted analytics tool that doesn't make use of cookies. It is privacy focused and fully open-source. Thanks @woutfeys |
-| [Supabase](https://supabase.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/supabase/supabase)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/supabase/supabase?logo=github&style=flat-square) |  | Supabase is an opensource alternative to Firebase. As of right now you can use their hosting plan for free as it's in alpha, or you can self host ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)). Thanks @woutfeys |
+| [Supabase](https://supabase.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/supabase/supabase)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/supabase/supabase?logo=github&style=flat-square) |  | Supabase is an opensource alternative to Firebase. You can host for free on [their platform](https://app.supabase.com), or you can [self host](https://supabase.com/docs/guides/self-hosting). Thanks @woutfeys |
 | [GoAccess](https://goaccess.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/allinurl/goaccess)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/allinurl/goaccess?logo=github&style=flat-square) |  | An open-source web server analysis tool. Installs on your web server (ideally), but works just as well if you download your logs someplace else. Interactive; cursor around in the report and see what's going on. Can generate HTML reports. Can also generate realtime interactive HTML reports if you run it in server mode. Lightweight, only requires UTF-8 support and ncurses (ncursesw, if you want a UTF-8 enabled console). Available in the default package repositories of multiple Linux distros. Thanks @virtadpt |
 | [Offen](https://www.offen.dev/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/offen/offen)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/offen/offen?logo=github&style=flat-square) |  | Open-source and self-hosted, Offen is a fair and lightweight web analytics alternative that treats operators and users as equal parties. |
 | [Umami](https://umami.is/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/mikecao/umami)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/mikecao/umami?logo=github&style=flat-square) |  | A simple, easy to use, open-source/self-hosted web analytics solution. |
 | [Kindmetrics](https://kindmetrics.io)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/kindmetrics)<br/> | **5/14-eyes** | An open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers on Digitalocean (USA) datacenter in Germany. |
-| [userTrack](https://www.usertrack.net/) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
+| [UXWizz](https://www.uxwizz.com) |  | Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features. Includes user segments, heatmaps, session recordings and A/B testing. |
 | [Piwik PRO](https://piwik.pro/) | **5-eyes** | An analytics suite with a focus on user privacy and data security. |
 | [Panelbear](https://panelbear.com/) | **14-eyes** | Privacy-focused analytics + web performance monitoring. |
 | [HockeyStack](https://www.hockeystack.com/) | **5-eyes** | Offers cookieless tracking and no PII collected. |
+| [Swetrix](https://swetrix.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/swetrix/swetrix-js)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/swetrix/swetrix-js?logo=github&style=flat-square) | **14-eyes** | Privacy-focused, cookieless and selfhostable alternative to Google Analytics. |
 
 
 
@@ -267,6 +277,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Lychee](https://lycheeorg.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/LycheeOrg/Lychee)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?logo=github&style=flat-square) |  | An open-source self-hosted photo-management tool that includes built-in support for videos. Thanks @m0yP |
 | [ente](https://ente.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/ente-io/)<br/> | **5-eyes** | A paid, cloud-based, open-source photo storage app with a focus on security and privacy. Apps are available for iOS, Android, web and desktop. |
 | [Photoview](https://photoview.github.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/photoview/photoview)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/photoview/photoview?logo=github&style=flat-square) |  | Self-hosted and open-source Personal Photo Management with options for face grouping, albums, sharing, automatic thumbnail generation, and map pins. |
+| [Lomorage](https://lomorage.com/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/lomorage/homepage)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/lomorage/homepage?logo=github&style=flat-square) |  | Enables people to backup photos / videos from any devices to their own self-hosted server, and intelligently manages these personal assets via AI. Run the Lomorage server at your home, download mobile client to save the memories, and enjoy the moments. |
 
 
 
@@ -377,7 +388,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | [Disroot](https://disroot.org/) | **9-eyes** | Decentralized email service. |
 | [StartMail](https://www.startmail.com/en/) | **9-eyes** | Operated by the same people who run StartPage. |
 | [SimpleLogin](https://simplelogin.io/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/simple-login)<br/> |  | Open-source, self-hosted, and privacy focused email forwarding service. |
-| [Migadu](https://www.migadu.com/en/index.html) | **9-eyes** | Paid email provider, located in Switzerland. Focus on privacy. |
+| [Migadu](https://www.migadu.com) | **9-eyes** | Paid email provider, run from Switzerland with servers in France. Focus on privacy. |
 | [Fastmail](https://fastmail.com/) | **5-eyes** | Paid email provider, located in Australia and US. |
 | [Runbox](https://runbox.com/why-runbox/privacy-protection/) | **9-eyes** | Privacy focusued email provider. Thanks @petertorelli |
 | [NextCloud](https://help.nextcloud.com/t/nextcloud-mail-server/157)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/nextcloud/mail)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/nextcloud/mail?logo=github&style=flat-square) |  | Nextcloud provides a webmail interface that can be used to access email from various providers. Thanks @je-vv |
@@ -427,7 +438,7 @@ Make sure to enable **[HTTPS-Only mode](https://www.eff.org/https-everywhere/set
 | ---- | ---- | ----------- |
 | [Open Font Library](https://fontlibrary.org/) | **5-eyes** | Lots of Serif and Sans-Serif fonts that can be directly embedded into a website. |
 | [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/majodev/google-webfonts-helper)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/majodev/google-webfonts-helper?logo=github&style=flat-square) | **5-eyes** | Hassle-free way for webmasters to self-host open-source fonts from Google Fonts |
-| [Brick](https://brick.im)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/alfredxing/brick)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/alfredxing/brick?logo=github&style=flat-square) | **9-eyes** | Open-source fonts that work in a very similar way to Google fonts. Most of the fonts render nicer than Google Fonts. |
+| [Fontsource](https://fontsource.org)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/fontsource/fontsource)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/fontsource/fontsource?logo=github&style=flat-square) | **5-eyes** | Self-host Open Source fonts in neatly bundled NPM packages. |
 
 
 
@@ -568,6 +579,7 @@ No known alternatives.
 | [Tor Browser](https://www.torproject.org/download/) |  | Firefox-based browser routed through the [Tor network](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29). Automatically has a few privacy extensions installed (such as HTTPS Everywhere). [Read this article](https://write.privacytools.io/my-thoughts-on-security/slicing-onions-part-1-myth-busting-tor) for more info on how it works and the benefits of using Tor. Available for Windows, Linux, macOS, and Android. |
 | [Librewolf](https://librewolf.net/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/librewolf-community/browser)<br/> |  | Librewolf is a fork of Firefox, with improved privacy defaults. Similarly to Waterfox, Librewolf is based on Firefox and intends to improve privacy by default. Many privacy enthusiasts have recommended it as a more effective privacy browser than other Firefox forks. |
 | [Waterfox](https://www.waterfox.net/) | **5-eyes** | Based on Firefox, but **64-bit only** with an emphasis on speed and privacy. Has a "classic" version built off older Firefox for legacy extension support and also an "alpha" version built off Quantum. It doesn't collect any telemetry and also removes Pocket from the alpha release. Project is run by [Alex Kontos](https://github.com/MrAlex94/) and is constantly in active development. Looks very clean and fast. Android versions are in the works too. **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/). |
+| [Mullvad Browser](https://mullvad.net/en/browser/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=torproject)](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)<br/> |  | Firefox-based, a collaboration between Mullvad and The Tor Project. Similar to Tor Browser in privacy and security, without the use of the Tor network. |
 
 
 
@@ -599,9 +611,8 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [F-Droid](https://f-droid.org/) |  | Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a browser version if you don't want to install the app. |
-| [Yalp Store (fork)](https://github.com/kiliakin/YalpStore)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.github.kiliakin.yalpstore?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.github.kiliakin.yalpstore/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/kiliakin/YalpStore)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/kiliakin/YalpStore?logo=github&style=flat-square) |  | Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play Store, but require an app that is only available there. This version is a fork of the original project that is no longer active. Thank @onlyjob |
-| [APKMirror](https://www.apkmirror.com/) |  | An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play. |
 | [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.aurora.store?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.aurora.store/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/AuroraOSS/AuroraStore)<br/> |  | Aurora Store is ~~simply a fork of the Yalp Store~~ no longer a fork of Yalp, but is now its own project (see their [readme](https://gitlab.com/AuroraOSS/AuroraStore/blob/master/README.md)). **Update:** Removed note on using microG as Aurora Store [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77). Thanks @notpushkin |
+| [APKMirror](https://www.apkmirror.com/) |  | An online library of user-uploaded APK files. Helpful if you need a specific older version of an app or don't want to download it through Google Play. |
 | [Fossdroid](https://fossdroid.com/) |  | Uses the same library as F-Droid, but with a modern UI similar to that of the Play Store and the ability to view apps by popularity. |
 | [G-Droid](https://gitlab.com/gdroid/gdroidclient/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=gitlab)](https://gitlab.com/gdroid/gdroidclient)<br/> |  | Also uses the F-Droid repo but with a different UI. |
 | [APKGrabber](https://github.com/hemker/apkgrabber)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/hemker/apkgrabber)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/hemker/apkgrabber?logo=github&style=flat-square) |  | Fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Both are great tools for avoiding app stores (on Android). |
@@ -779,7 +790,7 @@ No known alternatives.
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
 | [NewPipe](https://newpipe.schabi.org/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.schabi.newpipe?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.schabi.newpipe/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/TeamNewPipe/NewPipe)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?logo=github&style=flat-square) |  | Powerful open-source YouTube alternative. Supports audio only; background playback; picture-in-picture; no ads. |
-| [YouTube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) |  | Please read the XDA post before deciding to use this. |
+| [ReVanced](https://revanced.app/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/revanced/revanced-manager)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/revanced/revanced-manager?logo=github&style=flat-square) |  | ReVanced started when [Vanced was forced to shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147). Their Patcher tool is able to create patches for many apps with very little maintenance. |
 
 
 
@@ -864,7 +875,6 @@ No known alternatives.
 
 | Name | Eyes | Description |
 | ---- | ---- | ----------- |
-| [Blokada](https://blokada.org/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/org.blokada.alarm?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/org.blokada.alarm/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/blokadaorg/blokada)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/blokadaorg/blokada?logo=github&style=flat-square) |  | From the website: "If you want to efficiently block ads, trackers, malware, save on your data plan, speed up your device and protect your privacy with just one application, then Blokada is for you. It is free, secure and open-source." Uses internal VPN on Android to block ads. |
 | [Nebulo](https://nebulo.app/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/Ch4t4r/Nebulo)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/Ch4t4r/Nebulo?logo=github&style=flat-square) |  | From GitHub README: "Nebulo is a free, open-source, no-root, light-weight dns-over-https, dns-over-tls, and dns-over-http-over-quic client for Android with emphasis on privacy and security. Nebulo is fast, highly-customizable, ad-free, efficient on the battery, contains zero analytics / tracking. |
 | [RethinkDNS + Firewall](https://rethinkfirewall.com/)<br/>[![F-Droid](https://img.shields.io/f-droid/v/com.celzero.bravedns?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/com.celzero.bravedns/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/celzero/rethink-app)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/celzero/rethink-app?logo=github&style=flat-square) |  | From the website: "Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent Internet censorship, block ads and trackers on your Android device." |
 | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android)<br/>[![F-Droid](https://img.shields.io/f-droid/v/net.kollnig.missioncontrol.fdroid?style=flat-square&logo=f-droid)](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/)<br/>[![Repo](https://img.shields.io/badge/open-source-3DA639?style=flat-square&logo=github)](https://github.com/OxfordHCC/tracker-control-android)<br/>![GitHub Repo stars](https://img.shields.io/github/stars/OxfordHCC/tracker-control-android?logo=github&style=flat-square) |  | From the GitHub README: Allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ("tracking"). To detect tracking, TrackerControl checks all network traffic against the Disconnect blocklist, used and trusted by the Mozilla Firefox browser. Thanks @E5dZEUpc3BKaJrHnQVZd5zE |
@@ -1004,6 +1014,7 @@ Everything you need to become a privacy wizard. This section has two subsections
 | [The Attention Merchants](http://www.timwu.org/AttentionMerchants.html) | ![Published](https://img.shields.io/badge/2016-informational?style=flat-square) | Tim Wu |
 | [Zucked](https://www.zuckedbook.com/) | ![Published](https://img.shields.io/badge/2019-informational?style=flat-square) | Roger McNamee |
 | [Privacy Is Power](https://www.penguin.co.uk/books/1120394/privacy-is-power/9780552177719.html) | ![Published](https://img.shields.io/badge/2021-informational?style=flat-square) | Carissa Véliz |
+| [Life After Google: The Fall of Big Data and the Rise of the Blockchain Economy](https://www.worldcat.org/title/1286794949) | ![Published](https://img.shields.io/badge/2018-informational?style=flat-square) | George Gilder |
 
 
 ## Blog posts 

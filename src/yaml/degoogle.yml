@@ -260,6 +260,15 @@ web based products:
       text: >
         An open-source self-hosted web hosting platform for a wide set of web applications, including
         Etherpad (collaborative text editing), Radicale (calendar), Lychee (image hosting), Wekan (Kanban)
+  google workflow:
+    - title: Google Workflow
+    - name: Activepieces
+      url: https://www.activepieces.com/
+      repo: https://github.com/activepieces/activepieces
+      eyes: null
+      text: >
+        Open source no-code business and process automation tool. For example, you can set up a flow to
+        receive Slack messages whenever a new Trello card is added.
   blogger and sites:
     - title: Blogger/Sites
     - name: Joomla
@@ -363,10 +372,8 @@ web based products:
       repo: https://github.com/supabase/supabase
       eyes: null
       text: >
-        Supabase is an opensource alternative to Firebase. As of right now you can use their hosting
-        plan for free as it's in alpha, or you can self host
-        ([note on self hosting](https://github.com/supabase/supabase/issues/85#issuecomment-636010946)).
-        Thanks @woutfeys
+        Supabase is an opensource alternative to Firebase. You can host for free on [their platform](https://app.supabase.com), or
+        you can [self host](https://supabase.com/docs/guides/self-hosting). Thanks @woutfeys
     - name: GoAccess
       url: https://goaccess.io/
       repo: https://github.com/allinurl/goaccess
@@ -398,8 +405,8 @@ web based products:
       text: >
         An open-source analytics tool. Landing page and company is based in Sweden, CDN in EU, Servers
         on Digitalocean (USA) datacenter in Germany.
-    - name: userTrack
-      url: https://www.usertrack.net/
+    - name: UXWizz
+      url: https://www.uxwizz.com
       eyes: null
       text: >
         Self-hosted alternative to Google Analytics, similar to Matomo but cheaper for premium features.
@@ -419,6 +426,12 @@ web based products:
       eyes: 5
       text: >
         Offers cookieless tracking and no PII collected.
+    - name: Swetrix
+      url: https://swetrix.com/
+      repo: https://github.com/swetrix/swetrix-js
+      eyes: 14
+      text: >
+        Privacy-focused, cookieless and selfhostable alternative to Google Analytics.
   photos:
     - title: Photos
     - name: Photoprism
@@ -475,6 +488,12 @@ web based products:
       eyes: null
       text: >
         Self-hosted and open-source Personal Photo Management with options for face grouping, albums, sharing, automatic thumbnail generation, and map pins.
+    - name: Lomorage
+      url: https://lomorage.com/
+      repo: https://github.com/lomorage/homepage
+      eyes: null
+      text: >
+        Enables people to backup photos / videos from any devices to their own self-hosted server, and intelligently manages these personal assets via AI. Run the Lomorage server at your home, download mobile client to save the memories, and enjoy the moments.
   calendar:
     - title: Calendar
     - name: Lightning Calendar (Thunderbird)
@@ -836,10 +855,10 @@ web based products:
       text: >
         Open-source, self-hosted, and privacy focused email forwarding service.
     - name: Migadu
-      url: https://www.migadu.com/en/index.html
+      url: https://www.migadu.com
       eyes: 9
       text: >
-        Paid email provider, located in Switzerland. Focus on privacy.
+        Paid email provider, run from Switzerland with servers in France. Focus on privacy.
     - name: Fastmail
       url: https://fastmail.com/
       eyes: 5
@@ -1010,13 +1029,12 @@ web based products:
       eyes: 5
       text: >
         Hassle-free way for webmasters to self-host open-source fonts from Google Fonts
-    - name: Brick
-      url: https://brick.im
-      repo: https://github.com/alfredxing/brick
-      eyes: 9
+    - name: Fontsource
+      url: https://fontsource.org
+      repo: https://github.com/fontsource/fontsource
+      eyes: 5
       text: >
-        Open-source fonts that work in a very similar way to Google fonts. Most of the fonts render
-        nicer than Google Fonts.
+        Self-host Open Source fonts in neatly bundled NPM packages.
   classroom:
     - title: Classroom
     - name: Moodle
@@ -1293,6 +1311,12 @@ desktop applications:
         development. Looks very clean and fast. Android versions are in the works too.
         **UPDATE:** @Nudin pointed out in [Issue \#85](https://github.com/tycrek/degoogle/issues/85) that Waterfox is now
         [a part of System1](https://www.waterfox.net/blog/waterfox-has-joined-system1/).
+    - name: Mullvad Browser
+      url: https://mullvad.net/en/browser/
+      repo: https://gitlab.torproject.org/tpo/applications/mullvad-browser/
+      eyes: null
+      text: >
+        Firefox-based, a collaboration between Mullvad and The Tor Project. Similar to Tor Browser in privacy and security, without the use of the Tor network.
   earth:
     - title: Earth
     - name: KDE Marble
@@ -1353,22 +1377,6 @@ mobile applications:
       text: >
         Catalogue of FOSS apps for Android. Easy to install and keeps track of updates. Also has a
         browser version if you don't want to install the app.
-    - name: Yalp Store (fork)
-      url: https://github.com/kiliakin/YalpStore
-      repo: https://github.com/kiliakin/YalpStore
-      fdroid: com.github.kiliakin.yalpstore
-      eyes: null
-      text: >
-        Yalp downloads Play Store apps as APK files. Helpful if you want to stay away from the Play
-        Store, but require an app that is only available there. This version is a fork of the original
-        project that is no longer active.
-        Thank @onlyjob
-    - name: APKMirror
-      url: https://www.apkmirror.com/
-      eyes: null
-      text: >
-        An online library of user-uploaded APK files. Helpful if you need a specific older version
-        of an app or don't want to download it through Google Play.
     - name: Aurora Store
       url: https://gitlab.com/AuroraOSS/AuroraStore
       repo: https://gitlab.com/AuroraOSS/AuroraStore
@@ -1380,6 +1388,12 @@ mobile applications:
         **Update:** Removed note on using microG as Aurora Store
         [does not use it](https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/README.md#L77).
         Thanks @notpushkin
+    - name: APKMirror
+      url: https://www.apkmirror.com/
+      eyes: null
+      text: >
+        An online library of user-uploaded APK files. Helpful if you need a specific older version
+        of an app or don't want to download it through Google Play.
     - name: Fossdroid
       url: https://fossdroid.com/
       eyes: null
@@ -1861,11 +1875,13 @@ mobile applications:
       text: >
         Powerful open-source YouTube alternative. Supports audio only; background playback;
         picture-in-picture; no ads.
-    - name: YouTube Vanced
-      url: https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757
+    - name: ReVanced
+      url: https://revanced.app/
+      repo: https://github.com/revanced/revanced-manager
       eyes: null
       text: >
-        Please read the XDA post before deciding to use this.
+        ReVanced started when [Vanced was forced to shut down](https://www.androidauthority.com/youtube-vanced-discontinued-3132147).
+        Their Patcher tool is able to create patches for many apps with very little maintenance.
   authenticator:
     - title: Authenticator
     - name: andOTP
@@ -2094,15 +2110,6 @@ mobile applications:
         A clean, simple Android launcher with a very minimalist design. Forked from [Slim Launcher](https://github.com/sduduzog/slim-launcher).
   other:
     - title: "*Other*"
-    - name: Blokada
-      url: https://blokada.org/
-      repo: https://github.com/blokadaorg/blokada
-      fdroid: org.blokada.alarm
-      eyes: null
-      text: >
-        From the website: "If you want to efficiently block ads, trackers, malware, save on your data
-        plan, speed up your device and protect your privacy with just one application, then Blokada is
-        for you. It is free, secure and open-source." Uses internal VPN on Android to block ads.
     - name: Nebulo
       url: https://nebulo.app/
       repo: https://github.com/Ch4t4r/Nebulo
